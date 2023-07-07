@@ -1,4 +1,6 @@
 - Create this project with command `cargo new project_name`
+- `Cargo.toml` - configuration file of rust project
+- `Cargo.lock` - keep correct versions of dependencies (like `package.lock` in `npm`)
 ## Commands:
 - `cargo build` - compile rust file to binary and put inside `./target/debug/project_name`. You need to run this command first for new projects
   - after this command you can run your binary file with terminal command `./target/debug/project_name`
