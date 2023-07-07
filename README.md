@@ -1,0 +1,2 @@
+- Create this project with command `cargo new project_name`
+- 
